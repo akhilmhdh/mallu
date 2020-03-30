@@ -1,0 +1,49 @@
+.headerAppContainer {
+  font-size: 24px;
+  padding: 15px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+  z-index: 10;
+  font-family: "poppins";
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #3d3d3d;
+  transition: 0.5s;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+  filter: invert(21%) sepia(0%) saturate(1%) hue-rotate(145deg) brightness(93%)
+    contrast(87%);
+  cursor: pointer;
+}
+
+.icon-duster {
+  animation: dusting 1s infinite;
+}
+
+@keyframes dusting {
+  50% {
+    transform: rotate(3deg);
+  }
+  100% {
+    transform: rotate(-3deg);
+  }
+}
+
+.icon-spinner {
+  animation: spin 1s infinite;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}

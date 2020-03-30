@@ -1,0 +1,19 @@
+.footerContainer {
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2), 0 3px 1px -2px rgba(0, 0, 0, 0.12),
+    0 2px 2px 0 rgba(0, 0, 0, 0.14);
+  z-index: 10;
+  font-size: 12px;
+  padding: 15px;
+  height: 30px;
+  text-align: center;
+  font-family: "poppins";
+  line-height: 1.5;
+  color: #3d3d3d;
+  font-weight: bold;
+}
+
+@media screen and (min-device-width: 720px) {
+  .footerContainer {
+    font-size: 14px;
+  }
+}
