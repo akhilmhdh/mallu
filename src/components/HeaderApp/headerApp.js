@@ -19,14 +19,14 @@ const HeaderApp = (props) =>{
                 {pronounce[props.alphabet]}
             </div>
             <div onClick={()=>{props.clear()}}>
-                <img src="/static/images/duster.svg"
+                <img src={process.env.PUBLIC_URL+"/images/duster.svg"}
                 className="icon icon-duster" alt="clean"/>
             </div>
             <div style={{opacity:`${props.alphabet==null?0:1}`}}>
                 {props.loading
-                    ?<img src={`/static/images/spinner.png`}
+                    ?<img src={process.env.PUBLIC_URL+`/images/spinner.png`}
                     className="icon icon-spinner" alt="alphabet"/>
-                    :<img src={`/static/characters/character (${props.alphabet+1}).svg`}
+                    :<img src={process.env.PUBLIC_URL+`/characters/character (${props.alphabet+1}).svg`}
                     className="icon" alt="alphabet"/>}
             </div>
         </div>

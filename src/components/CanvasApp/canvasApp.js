@@ -43,9 +43,9 @@ const CanvasApp = ({height,width,alphabetIs,alphabet,clear,loading,setLoading}) 
             </div>
             <div className="canvas-container canvasImage">
             {loading
-                ?<img src={`/static/images/spinner.png`}
+                ?<img src={process.env.PUBLIC_URL+`/images/spinner.png`}
                 className="icon-spinner" alt="alphabet"/>
-                :<img src={`/static/characters/character (${alphabet+1}).svg`}
+                :<img src={process.env.PUBLIC_URL+`/characters/character (${alphabet+1}).svg`}
                  alt="alphabet"/>}
             </div>
            
