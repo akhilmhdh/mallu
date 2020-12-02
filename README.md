@@ -6,6 +6,7 @@
 
 * Frontend for the project [MALLU](https://akhilmhdh.github.io/mallu/). 
 * Built using ReactJS.
+* Backend for ther project : [Mallu Flask Backend](https://github.com/akhilmhdh/MAL-Character-Recog-Flask-Server)
 
 ## Prerequisite
 
