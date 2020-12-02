@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mallu/static/css/main.0db0ad62.chunk.css",
+    "main.js": "/mallu/static/js/main.bd13a588.chunk.js",
+    "main.js.map": "/mallu/static/js/main.bd13a588.chunk.js.map",
+    "runtime-main.js": "/mallu/static/js/runtime-main.19607e3b.js",
+    "runtime-main.js.map": "/mallu/static/js/runtime-main.19607e3b.js.map",
+    "static/js/2.36a47f1e.chunk.js": "/mallu/static/js/2.36a47f1e.chunk.js",
+    "static/js/2.36a47f1e.chunk.js.map": "/mallu/static/js/2.36a47f1e.chunk.js.map",
+    "index.html": "/mallu/index.html",
+    "precache-manifest.d2cdf26b59b1f92a6601dc1146f706e0.js": "/mallu/precache-manifest.d2cdf26b59b1f92a6601dc1146f706e0.js",
+    "service-worker.js": "/mallu/service-worker.js",
+    "static/css/main.0db0ad62.chunk.css.map": "/mallu/static/css/main.0db0ad62.chunk.css.map",
+    "static/js/2.36a47f1e.chunk.js.LICENSE.txt": "/mallu/static/js/2.36a47f1e.chunk.js.LICENSE.txt",
+    "static/media/canvasAppStyle.css": "/mallu/static/media/doodle.6b9acb8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19607e3b.js",
+    "static/js/2.36a47f1e.chunk.js",
+    "static/css/main.0db0ad62.chunk.css",
+    "static/js/main.bd13a588.chunk.js"
+  ]
+}

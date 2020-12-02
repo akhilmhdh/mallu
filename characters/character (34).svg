@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2992" inkscape:version="0.91pre2 r13516" sodipodi:docname="à´°.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2048 2000"
+	 style="enable-background:new 0 0 2048 2000;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter5478);}
+	.st1{fill:none;stroke:#000000;stroke-width:127.3718;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<filter  height="1.5" id="filter5478" inkscape:label="Black Hole" inkscape:menu="Morphology" inkscape:menu-tooltip="Creates a black light inside and outside" style="color-interpolation-filters:sRGB;" width="1.5" x="-0.25" y="-0.25">
+	<feGaussianBlur  id="feGaussianBlur5480" in="SourceAlpha" result="result1" stdDeviation="5"></feGaussianBlur>
+	<feComposite  id="feComposite5482" in2="result1" k1="-1" k2="3.2" k4="-2" operator="arithmetic" result="result3"></feComposite>
+	<feColorMatrix  id="feColorMatrix5484" result="result2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "></feColorMatrix>
+	<feComposite  id="feComposite5486" in="SourceGraphic" in2="result2" operator="out" result="fbSourceGraphic"></feComposite>
+	<feBlend  id="feBlend5488" in="result1" in2="fbSourceGraphic" mode="multiply" result="result91"></feBlend>
+	<feBlend  id="feBlend5490" in="fbSourceGraphic" in2="result91" mode="screen"></feBlend>
+</filter>
+<defs>
+	
+	<inkscape:path-effect  effect="spiro" id="path-effect4574" is_visible="true"></inkscape:path-effect>
+</defs>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="375.72736" inkscape:cy="978.80731" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-text-baseline="false" inkscape:window-height="853" inkscape:window-maximized="1" inkscape:window-width="1600" inkscape:window-x="1598" inkscape:window-y="-3" inkscape:zoom="0.32102648" pagecolor="#ffffff" showgrid="true" showguides="true">
+	<sodipodi:guide  id="guide5596" orientation="horizontal" position="0,600"></sodipodi:guide>
+	<inkscape:grid  empspacing="5" enabled="true" id="grid3769" snapvisiblegridlinesonly="true" type="xygrid" visible="true">
+		</inkscape:grid>
+	<sodipodi:guide  id="guide4138" orientation="0,1" position="-1280,1600"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,1000)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="path4140" inkscape:connector-curvature="0" sodipodi:nodetypes="cscsc" class="st0">
+		<path class="st1" d="M600,416.1C426.9,223.8,378.5,51.1,407.5-92.4C516.7-632.5,1722.2-760.1,1506.9,26.5
+			c-196.4,539.2-660.2,496.9-634.4-8.8c9.5-186,153.4-386.6,519.4-410.1"/>
+	</g>
+</g>
+</svg>
